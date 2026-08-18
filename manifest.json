@@ -1,0 +1,16 @@
+{
+  "name": "T&M Trip",
+  "short_name": "T&M Trip",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#087f73",
+  "icons": [
+    {
+      "src": "tmtrip-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
